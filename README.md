@@ -1,2 +1,2 @@
-# matrix_creator_testing_hal
+# matrix_creator_testing
 Example programs to testing matrix creator board
